@@ -1,6 +1,12 @@
 site_name: AVWX Support
+site_url: https://support.avwx.rest
+site_description: Support site for the AVWX REST API
 site_author: Michael duPont
+
 repo_url: https://github.com/avwx-rest/api-support-site
+edit_url: ""
+
+theme: lumen
 
 nav:
   - API:
@@ -8,9 +14,10 @@ nav:
     - Token: token.md
     - HTTP Codes: http_codes.md
   - Account:
-    # - Account Management: account.md
     - Feature Tiers: tiers.md
     - Payment Processing: payment.md
+
+copyright: Copyright &copy; 2021 duPont Technologies LLC
 
 plugins:
   - search
@@ -18,7 +25,3 @@ plugins:
       minify_html: true
       htmlmin_opts:
         remove_comments: true
-
-theme: lumen
-
-copyright: Copyright &copy; 2021 duPont Technologies LLC

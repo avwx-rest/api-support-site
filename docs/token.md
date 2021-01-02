@@ -17,7 +17,9 @@ Paid plans are given a separate token with 4k calls that doesn't count against t
 Currently, the API will return a 429 error code for the remainder of the day. The count is reset at 00:00Z every day. I'm currently working on an opt-in option to allow overage billing instead of cutting access. It should be available by the end of January 2021.
 
 ## What happens if I refresh an API token?
+
 Because each API token has a private ID internally, you can refresh a token's value as much as you want. You won't lose any usage data.
 
 ## How do I view my token usage?
+
 You can view the last 30 days of token usage by selecting the chart icons in the token list. Press the header icon to display all tokens or each row for a single token.
