@@ -13,6 +13,7 @@ nav:
     - API Usage: api.md
     - Token: token.md
     - HTTP Codes: http_codes.md
+    - Data Sources: data.md
   - Account:
     - Feature Tiers: tiers.md
     - Payment Processing: payment.md
