@@ -17,6 +17,9 @@ nav:
   - Account:
     - Feature Tiers: tiers.md
     - Payment Processing: payment.md
+  - Legal:
+    - Terms of Service: terms.md
+    - Privacy Policy: privacy.md
 
 copyright: Copyright &copy; 2021 duPont Technologies LLC
 
