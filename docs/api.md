@@ -23,7 +23,7 @@ These shouldn't be an issue for the vast majority of users, and the final result
 
 ### Do I need to include all of those parameters?
 
-Not unless it overrides a default value. For example, calling [https://avwx.rest/api/metar/KMCO]() will work just fine if the API token is in the header.
+Not unless it overrides a default value. For example, calling https://avwx.rest/api/metar/KMCO will work just fine if the API token is in the header.
 
 ### Why is my report out of date?
 

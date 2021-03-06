@@ -1,8 +1,12 @@
 # Feature Tiers
 
+### What plans do you offer?
+
+You'll find a list of available plans along with their features, price, and call limit on the [account portal].
+
 ### Do you have any options for open-source projects?
 
-There is an open-source plan available which mirrors the free plan but with a higher call limit. If you are the creator or maintainer of a project currently using AVWX, [email me](mailto:avwx@dupont.dev) with a link to your project repo.
+There is an open-source plan available which mirrors the free plan but with a higher call limit. If you are the creator or maintainer of a project currently using AVWX, [email me] with a link to your project repo.
 
 ### Can I switch my plans after subscribing?
 
@@ -14,4 +18,7 @@ Currently, the API will return a 429 error code for the remainder of the day. Th
 
 ### What if I need a higher call limit?
 
-If you regularly need more than what the Enterprise plan provides, [email me](mailto:avwx@dupont.dev) so we can make a custom plan (features, calls, pricing) that fits your specific use-case.
+If you regularly need more than what the Enterprise plan provides, [email me] so we can make a custom plan (features, calls, pricing) that fits your specific use-case.
+
+[email me]: mailto:avwx@dupont.dev "Email Me"
+[account portal]: https://account.avwx.rest "AVWX Account Home"

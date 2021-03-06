@@ -30,7 +30,7 @@ The API token was rejected for one of the following reasons:
 
 ## 429 Too Many Requests
 
-The user's account or token has hit it's daily call limit. You can view your recent usage from the [account portal](http://account.avwx.rest/token/usage). If you need to increase your call limit, you can upgrade your plan or opt-in to overage billing (only available to paid plans for now).
+The user's account or token has hit it's daily call limit. You can view your recent usage from the [account portal][token use]. If you need to increase your call limit, you can upgrade your plan or opt-in to overage billing (only available to paid plans for now).
 
 ## 500 Unknown Server Error
 
@@ -43,3 +43,5 @@ There was an issue fetching a report from the data source. This is usually a tem
 ## 503 Server Rebooting
 
 The server is being updated and the request has been cancelled. Retry your connection immediately for the request to be queued.
+
+[token use]: http://account.avwx.rest/token/usage "Token Usage Graph"
