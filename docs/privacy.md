@@ -32,7 +32,7 @@ We may allow third parties to provide analytics services. These third parties ma
 
 We may use cookies on our site to remember your preferences.
 
-For more general information on cookies, please read "What Are Cookies".
+For a full guide to cookies, check out this thorough guide from [privacypolicies.com].
 
 ## Opt-Out, Communication Preferences
 
@@ -51,3 +51,5 @@ The Website is not intended for children under the age of 13. We do not knowingl
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
 If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email.
+
+[privacypolicies.com]: https://www.privacypolicies.com/blog/cookies/ "privacypolicies.com"

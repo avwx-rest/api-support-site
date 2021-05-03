@@ -29,4 +29,4 @@ Not unless it overrides a default value. For example, calling https://avwx.rest/
 
 AVWX uses a responsive short-term cache system for all report types. Normally, the cache is there to return the most recent report after non-24-hour stations and airports close for the night or if there is some short-term error with the report sources rather than returning an error response. Because of this, it's possible to receive a report that may be multiple days old as it represents the last time an AVWX user requested that specific report and one was available.
 
-My recommendation is to add some client-side logic to check for the recency of the report. However, you can override the default functionality and have AVWX return an error code when a current report is not available by caching the `onfail` URL parameter to `error`.
+My recommendation is to add some client-side logic to check for the recency of the report. However, you can override the default functionality and have AVWX return an error code when a current report is not available by changing the `onfail` URL parameter to `error`.

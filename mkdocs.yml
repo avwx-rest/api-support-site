@@ -4,9 +4,17 @@ site_description: Support site for the AVWX REST API
 site_author: Michael duPont
 
 repo_url: https://github.com/avwx-rest/api-support-site
-edit_url: ""
 
-theme: lumen
+theme:
+  name: material
+  logo: assets/images/avwx-icon-32-white.png
+  favicon: assets/images/favicon.ico
+
+extra:
+  homepage: https://avwx.rest
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 nav:
   - API:
