@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://support.avwx.rest/api/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/token/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/http_codes/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/data/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/tiers/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/payment/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/terms/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://support.avwx.rest/privacy/</loc>
-     <lastmod>2021-03-06</lastmod>
+     <lastmod>2021-05-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
