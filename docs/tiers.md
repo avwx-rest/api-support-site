@@ -14,7 +14,7 @@ You can switch your plan at any time. Your API tokens do not need to be changed 
 
 ### What happens if I hit the call limit?
 
-Currently, the API will return a 429 error code for the remainder of the day. The count is reset at 00:00Z every day. I'm currently working on an opt-in option to allow overage billing instead of cutting access. It should be available by the end of January 2021.
+Currently, the API will return a 429 error code for the remainder of the day. The count is reset at 00:00Z every day. You can always enable overage billing to prevent this from happening though. It will keep track of how many calls go over the daily limit and add an extra charge to the current billing cycle.
 
 ### What if I need a higher call limit?
 
